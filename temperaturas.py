@@ -1,4 +1,4 @@
-#LUCÍA ROLDÁN RODRÍGUEZ.
+
 
 from threading import Lock 
 from paho.mqtt.client import Client
