@@ -1,4 +1,4 @@
-#LUCIA ROLDAN RODRIGUEZ
+
 from paho.mqtt.client import Client
 
 def on_message(client, userdata, msg):
