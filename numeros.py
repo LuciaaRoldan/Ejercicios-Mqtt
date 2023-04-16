@@ -1,4 +1,4 @@
-#LUCÍA ROLDÁN RODRÍGUEZ
+
 
 from paho.mqtt.client import Client
 import math
