@@ -1,7 +1,9 @@
 # Ejercicios-Mqtt
 En este repositorio se pueden encontrar 6 archivos de python.
+## Broker
+En este apartado se encuentra el esquema bbásico de un broker donde los usuarios se conectan y pueden enviar y recibir mensajes.
 ## Números 
-En este apartado el cliente lee el topic 'numbers' 
+En este apartado el cliente lee el topic 'numbers' y comprueba si el número leído es entero y de serlo comprueba si es primo.
 
 ## Temperaturas 
 En este apartado el cliente lee lso subtopics de 'temperature' y en un intervalo de 4 segundos calcual la temperatura máxima, mínima y media de cada sensor y de todos los sensores.
