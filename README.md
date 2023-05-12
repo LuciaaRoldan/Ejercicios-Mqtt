@@ -1,7 +1,10 @@
 # Ejercicios-Mqtt
 En este repositorio se pueden encontrar 6 archivos de python.
+## Números 
+En este apartado el cliente lee el topic 'numbers' 
 
 ## Temperaturas 
+En este apartado el cliente lee lso subtopics de 'temperature' y en un intervalo de 4 segundos calcual la temperatura máxima, mínima y media de cada sensor y de todos los sensores.
 ## Temperatura y humedad 
 En este apartado el cliente escucha uno de los sensores de temperature, si su valor supera K0 entonces eschará el topic 'humidity' y si baja de K0 o el valor de humidity sube de K1 dejará de escuchar el topic 'humidity'.
 ## Temporizador 
